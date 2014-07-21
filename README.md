@@ -13,19 +13,26 @@ Source Code
 
 Executable
 
-Dependencies:
+Note:
 
-For use without Visual Studio you need to copy to a folder the following files:
+For Using this project without Visual Studio you need to copy to a folder the following files:
 
 On manage_publications/Projecto/Debug:
+
 Projecto.exe
+
 SQLite.dll
+
 SQLite.NET.dll
+
 SQLite3.dll
 
 On manage_publications/Projecto/Projecto:
+
 DataBase.db
+
 music.wav
+
 icon.ico
 
 
