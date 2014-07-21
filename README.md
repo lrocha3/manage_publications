@@ -13,7 +13,6 @@ Source Code
 
 Executable
 
-Note:
 
 For Using this project without Visual Studio you need to copy to a folder the following files:
 
