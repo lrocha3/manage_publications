@@ -6,8 +6,11 @@ Manage Scientific Publications - Windows Forms - Visual Studio 2013
 This Project has:
 
 User Manual
+
 Reference Manual
+
 Source Code
+
 Executable
 
 Dependencies:
