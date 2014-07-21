@@ -1,0 +1,25 @@
+﻿Build started 20/05/2014 05:52:53.
+     1>Project "C:\Users\Luis Rocha\documents\visual studio 2013\Projects\Projecto\Projecto\Projecto.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Users\Luis Rocha\documents\visual studio 2013\Projects\Projecto\Debug\SQLite.NET.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib add_thesis.cpp main.cpp
+         add_thesis.cpp
+         main.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Luis Rocha\documents\visual studio 2013\Projects\Projecto\Debug\Projecto.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:Debug\Projecto.add_book.resources /ASSEMBLYRESOURCE:Debug\Projecto.add_book_chapter.resources /ASSEMBLYRESOURCE:Debug\Projecto.add_conference.resources /ASSEMBLYRESOURCE:Debug\Projecto.add_export_reference.resources /ASSEMBLYRESOURCE:Debug\Projecto.add_journal.resources /ASSEMBLYRESOURCE:Debug\Projecto.add_thesis.resources /ASSEMBLYRESOURCE:Debug\Projecto.main.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Luis Rocha\documents\visual studio 2013\Projects\Projecto\Debug\Projecto.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\add_book.obj
+         Debug\add_book_chapter.obj
+         Debug\add_conference.obj
+         Debug\add_export_reference.obj
+         Debug\add_journal.obj
+         Debug\add_thesis.obj
+         Debug\DataBase.obj
+         Debug\main.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Projecto.vcxproj -> C:\Users\Luis Rocha\documents\visual studio 2013\Projects\Projecto\Debug\Projecto.exe
+       GenerateSatelliteAssemblies:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\AL.exe /culture:af-ZA /out:"C:\Users\Luis Rocha\documents\visual studio 2013\Projects\Projecto\Debug\af-ZA\Projecto.resources.dll" /platform:x86 /template:"C:\Users\Luis Rocha\documents\visual studio 2013\Projects\Projecto\Debug\Projecto.exe" /embed:Debug\Projecto.main.af-ZA.resources
+     1>Done Building Project "C:\Users\Luis Rocha\documents\visual studio 2013\Projects\Projecto\Projecto\Projecto.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.15

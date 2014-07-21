@@ -1,0 +1,4 @@
+Mar07, Jose Marques, Android, Computer, Polo II, Portugal, 2007
+BA05, Saul Bento, Rui Armindo, Quimica, Quimica Organica, Peter Crock, 1, Prentice Hall, 2, 2005, 3443, 1/4
+SM10, Sofia Santos, Claudia Martins, Sensores Inteligentes, 1, Porto Editora, 3, 2010, 0298
+RA02, Diogo Remigio, Claudio Araujo, A Robotica, Expresso, 2, 62, PT, 37467, 2002, 23/34
